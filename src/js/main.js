@@ -9,5 +9,4 @@ $(function() {
         $(theModal + ' iframe').attr('src', videoSRC);
       });
     });
-  });
-  
+  });  
